@@ -1,0 +1,23 @@
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Release\vdp.exe.config
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Release\vdp.exe
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Release\vdp.pdb
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.Main.resources
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.Properties.Resources.resources
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.exe
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.pdb
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\bin\Release\vdp.exe.config
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.exe
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.pdb
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\bin\Release\vdp.exe
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\bin\Release\vdp.pdb
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.Main.resources
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\vdp.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\lucas\Documents\Visual Studio 2010\Projects\vdp\vdp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\lucas\Downloads\bkp\sources\dotnet 2010\Projects\vdp\vdp\bin\Release\vdp.exe.config
+C:\Users\lucas\Downloads\bkp\sources\dotnet 2010\Projects\vdp\vdp\obj\x86\Release\vdp.exe
+C:\Users\lucas\Downloads\bkp\sources\dotnet 2010\Projects\vdp\vdp\obj\x86\Release\vdp.pdb

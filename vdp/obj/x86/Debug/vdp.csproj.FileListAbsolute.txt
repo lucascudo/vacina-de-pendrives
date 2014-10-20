@@ -1,0 +1,10 @@
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Debug\vdp.exe
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Debug\vdp.pdb
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\vdp.Main.resources
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\vdp.Properties.Resources.resources
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\vdp.exe
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\obj\x86\Debug\vdp.pdb
+C:\Documents and Settings\lucas\meus documentos\visual studio 2010\Projects\vdp\vdp\bin\Debug\vdp.exe.config
